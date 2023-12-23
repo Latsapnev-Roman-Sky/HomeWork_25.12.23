@@ -37,6 +37,15 @@ public class Main {
             System.out.println(i);
         }
 
+        //Task 7
+        for (int i = 1; i < 600; i = i * 2) {
+            System.out.println(i);
+        }
+
+
+
+
+
 
 
 
