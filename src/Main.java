@@ -19,6 +19,12 @@ public class Main {
             System.out.println(i);
         }
 
+        //Task 4
+
+        for (int i = 10; i > -11; i--) {
+            System.out.println(i);
+        }
+
 
     }
 }
